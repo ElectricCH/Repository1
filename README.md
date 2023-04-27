@@ -17,11 +17,7 @@ Moisés Adrian Ventura Topete: https://github.com/moises-ventura/clase2704/blob/
 https://github.com/ccernas0/CEN27.git
 
 
-Villa Para Manuel: https://github.com/MrVullcan/TestDia1CloudComputing/blob/main/README.md
 
 
 
-
-
-
-Joseph Roberto Williams Eusebio: https://github.com/JosephWilliams26
+Bart Kevin Nuñez Vizcarra https://github.com/BartKevin/RepGrupal2/blob/main/README.md
