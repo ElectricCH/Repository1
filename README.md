@@ -4,9 +4,10 @@ Repositorio para compartir con todo el grupo.
 
 Lista de participantes
 
-Villa Parra Manuel: 
-La lingüística es el estudio científico del origen, la evolución y la estructura del lenguaje, a fin de deducir las leyes que rigen las lenguas.
-En lingüística y semiótica, el significado es el contenido mental que le es dado a un signo lingüístico. Es decir, es el concepto o idea que se asocia a la forma sensible o perceptible (significante) del signo y al objeto que representa (su referente) en todo tipo de comunicación (véase triángulo semiótico).
+Moisés Adrian Ventura Topete
 
-Moisés Adrian Ventura Topete:
 La lingüística es el estudio científico del origen, la evolución y la estructura del lenguaje, a fin de deducir las leyes que rigen las lenguas.
+
+Antzonni Misraim Ochoa Ramirez
+
+La Linguistica Es la disciplina que se encarga del estudio cientifico del lenguaje, su estructura,su funcionamiento y evolucion en diferentes culturas y sociedades
