@@ -19,7 +19,6 @@ Bart Kevin Nuñez Vizcarra https://github.com/BartKevin/RepGrupal2/blob/main/REA
 
 Lázaro Alejandro Ramírez Guillen: https://github.com/RalgFoforo/FIMEworks1.git
 
-
 Sebastian Cazares Jimenez: https://github.com/WSPLGGE/Rep1.1/blob/main/README.md
 
 Julia Fernanda Llamas Alcaraz: https://github.com/iferllaz/computoNube
