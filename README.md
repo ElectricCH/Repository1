@@ -25,6 +25,7 @@ Julia Fernanda Llamas Alcaraz: https://github.com/iferllaz/computoNube
 
 Joseph Roberto Williams Eusebio: https://github.com/JosephWilliams26
 
+Silvia: https://github.com/SilviaRam12/RepositorioComputo
 
 maria del rosario https://github.com/4rosario/Fime-ici/blob/4ec98b24854f867c40460c7d302962ec338c5fdd/README.md
 
@@ -38,6 +39,3 @@ Jose Guadalupe: https://github.com/Jose07Rdz/fimeCN27
 
 Luis Felipe Batista Macias:
 https://github.com/felipe22bm/Computo_en_la_Nube.git
-
-Julio Cesar Salazar Ramos
-https://github.com/julesxd21/investigacion.git
