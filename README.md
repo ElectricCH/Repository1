@@ -20,11 +20,75 @@ https://github.com/ccernas0/CEN27.git
 Silvia: https://github.com/SilviaRam12/RepositorioComputo
 
 
-Bart Kevin Nuñez Vizcarra https://github.com/BartKevin/RepGrupal2/blob/main/README.md
 
 
-Joseph Roberto Williams Eusebio: https://github.com/JosephWilliams26
 
-Sebastian Cazares Jimenez: https://github.com/WSPLGGE/Rep1.1/blob/main/README.md
+maria del rosario https://github.com/4rosario/Fime-ici/blob/4ec98b24854f867c40460c7d302962ec338c5fdd/README.md
 
-Emilio Israel: https://github.com/byTitoEmiljo/Primer-Repositorio.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antzonni Misraim Ochoa Ramirez:
+https://github.com/Antzonni/repositorio1
