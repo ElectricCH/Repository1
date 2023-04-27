@@ -17,6 +17,7 @@ https://github.com/ccernas0/CEN27.git
 
 Bart Kevin Nuñez Vizcarra https://github.com/BartKevin/RepGrupal2/blob/main/README.md
 
+Lázaro Alejandro Ramírez Guillen: https://github.com/RalgFoforo/FIMEworks1.git
 
 
 Sebastian Cazares Jimenez: https://github.com/WSPLGGE/Rep1.1/blob/main/README.md
