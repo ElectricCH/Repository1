@@ -38,3 +38,6 @@ Jose Guadalupe: https://github.com/Jose07Rdz/fimeCN27
 
 Luis Felipe Batista Macias:
 https://github.com/felipe22bm/Computo_en_la_Nube.git
+
+Julio Cesar Salazar Ramos
+https://github.com/julesxd21/investigacion.git
