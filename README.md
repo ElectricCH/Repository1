@@ -35,3 +35,6 @@ Salma Jael Cortés Santa Ana:
 https://github.com/scortes4/mirepositorio1/blob/main/README.md
 
 Jose Guadalupe: https://github.com/Jose07Rdz/fimeCN27
+
+Luis Felipe Batista Macias:
+https://github.com/felipe22bm/Computo_en_la_Nube.git
