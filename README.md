@@ -3,6 +3,7 @@ Repositorio para compartir con todo el grupo.
 
 
 Lista de participantes
+Villa Para Manuel: https://github.com/MrVullcan/TestDia1CloudComputing/blob/main/README.md
 
 
 Jorge Fernando: https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023
@@ -20,75 +21,9 @@ https://github.com/ccernas0/CEN27.git
 Silvia: https://github.com/SilviaRam12/RepositorioComputo
 
 
+Bart Kevin Nuñez Vizcarra https://github.com/BartKevin/RepGrupal2/blob/main/README.md
 
 
+Joseph Roberto Williams Eusebio: https://github.com/JosephWilliams26
 
-maria del rosario https://github.com/4rosario/Fime-ici/blob/4ec98b24854f867c40460c7d302962ec338c5fdd/README.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Antzonni Misraim Ochoa Ramirez:
-https://github.com/Antzonni/repositorio1
+Sebastian Cazares Jimenez: https://github.com/WSPLGGE/Rep1.1/blob/main/README.md
