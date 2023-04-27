@@ -1,11 +1,9 @@
 # Repository1
 Repositorio para compartir con todo el grupo.
 
-
 Lista de participantes
 
 Villa Para Manuel: https://github.com/MrVullcan/TestDia1CloudComputing/blob/main/README.md
-
 
 Jorge Fernando: https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023
 
