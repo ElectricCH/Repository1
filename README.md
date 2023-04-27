@@ -24,4 +24,6 @@ Bart Kevin Nuñez Vizcarra https://github.com/BartKevin/RepGrupal2/blob/main/REA
 
 
 
+Joseph Roberto Williams Eusebio: https://github.com/JosephWilliams26
+
 Sebastian Cazares Jimenez: https://github.com/WSPLGGE/Rep1.1/blob/main/README.md
