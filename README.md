@@ -9,19 +9,4 @@ Jorge Fernando: https://github.com/JorgeFernand0/Computo-en-la-Nube-26-04-2023
 
 https://github.com/GabrielOchoaPizano/01-Practica-CloudComputing
 
-Juan Fruto: https://github.com/Juan-Fruto/cloud-computing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Joseph Roberto Williams Eusebio: https://github.com/JosephWilliams26
+Silvia: https://github.com/SilviaRam12/RepositorioComputo
